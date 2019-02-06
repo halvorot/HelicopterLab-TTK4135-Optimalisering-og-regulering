@@ -1,1 +1,5 @@
 slprj/
+helicopter_quarc_win64/
+*.rt-win64
+*.r2014a
+*.asv
